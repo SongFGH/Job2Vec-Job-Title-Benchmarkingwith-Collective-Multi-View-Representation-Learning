@@ -21,7 +21,7 @@ We fuse the multi-view representations in the encode-decode paradigm to obtain a
 
 
 <div align="center">
-    <img src="presentation/CIKM_table_1.png", width="800">
+    <img src="presentation/CIKM_table_1.png", width="600">
 </div>
 
 
