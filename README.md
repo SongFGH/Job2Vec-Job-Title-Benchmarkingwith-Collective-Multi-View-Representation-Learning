@@ -16,12 +16,13 @@ Along this line, we propose a collective multi-view representation learning meth
 We fuse the multi-view representations in the encode-decode paradigm to obtain an unified optimal representations for the task of link prediction. Finally, we conduct extensive experiments to validate the effectiveness of our proposed method. 
 
 <div align="center">
-    <img src="Presentation/LTS_framework.png", width="800">
+    <img src="Presentation/CIKM_framework.png", width="800">
 </div>
 
 
-
-
+<div align="center">
+    <img src="Presentation/CIKM_table_1.png", width="800">
+</div>
 
 
 ## Running the code
